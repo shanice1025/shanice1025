@@ -1,11 +1,8 @@
 Hi, I'm Shanice 👋
-[svg](https://github.com/shanice1025#hi-im-shanice-)
 
 I'm a BS Information Technology student majoring in Networks.
 
 ### About Me
-
-[svg](https://github.com/shanice1025#about-me)
 
 * 🌱 Currently learning Java, HTML, CSS, JavaScript, Python, C++, and networking
 * 💻 Interested in web development and application development
@@ -15,15 +12,11 @@ I'm a BS Information Technology student majoring in Networks.
 
 ### Experience
 
-[svg](https://github.com/shanice1025#experience)
-
 * Freelance Generalist at Outlier.ai
 
   * Worked on AI training and evaluation tasks
 
 ### Tools & Technologies
-
-[svg](https://github.com/shanice1025#tools--technologies)
 
 **Programming Languages**
 
